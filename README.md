@@ -1,7 +1,8 @@
 # web-store-backend
 
 para iniciar la prueba se debe ejecutar en un terminal
-- docker-compose up
+- /docker-compose up
+- ./mvnw spring-boot:run -f pom.xm
 
 Para realizar las pruebas el collection de postman esta en la carpeta principal web-store en:
  - /PostmanCollection
